@@ -1,5 +1,21 @@
-# FCC Test Suite Template
+## About The Project
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+This project is the Form project from freecodecamp.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+### Built With
+This project was built using these technologies.
+* HTML
+* CSS3
+* VsCode
+
+## Show your support
+
+Give a :star: if you like this project!
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Microverse](https://www.microverse.org/)
+
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
