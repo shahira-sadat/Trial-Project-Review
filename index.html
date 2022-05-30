@@ -16,7 +16,7 @@
         <h1 class="text-center"  id="title" >freeCodeCamp Survey Form</h1>
         <p id="description" class="description text-center">Thank you for taking the time to help us improve the platform</p>
       </header>
-      
+
       <form>
         <div class="form-group">
           <label id="labelname">Name</label>
@@ -30,7 +30,18 @@
           <label id="labelnumber">Age(optional)</label>
           <input type="number"    class="form-control" name="age"  id="num"  min="10"  max="90"  placeholder="Age"/>
         </div>
-       
+        <div class="form-group">
+          <p>Which option best describes your current role?</p>
+          <select id="drpdown" name="role" class="form-control">
+            <option disabled selected value>Select current role</option>
+            <option value="student">Student</option>
+            <option value="job">Full Time Job</option>
+            <option value="learner">Full Time Learner</option>
+            <option value="preferNo">Prefer not to say</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+    
       </form>
   </body>
 </html>
